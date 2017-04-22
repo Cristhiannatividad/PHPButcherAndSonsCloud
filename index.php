@@ -6,8 +6,14 @@
   <link rel="stylesheet" href="style.css" />
  </head>
  <body>
-  <h1 style="text-align:center;">Alumnos</h1>
+  <h1 style="text-align:center;">Empleados</h1>
   <table>
+   <tr>
+    <th>codigo</th>
+    <th>nombre</th>
+    <th>apellido</th>
+    <th>e-mail</th>
+   </tr>
    <?php
   $servername = "us-cdbr-iron-east-03.cleardb.net";
   $username = "b74ba3320e82ec";
