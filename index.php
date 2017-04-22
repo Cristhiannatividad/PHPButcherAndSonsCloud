@@ -13,7 +13,7 @@
     <th>nombre</th>
     <th>apellido</th>
     <th>e-mail</th>
-   <img src="starbucks.jpg" width=50 height= 50>
+   <img src="images/starbucks.jpg" width=50 height= 50>
    <?php
    
   $servername = "us-cdbr-iron-east-03.cleardb.net";
