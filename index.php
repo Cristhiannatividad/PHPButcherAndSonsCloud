@@ -44,5 +44,7 @@
   $conn->close();
  ?> 
  </table>
+  
+  <img src="starbucks.jpg" width=50 height= 50>
  </body>
  </html>
